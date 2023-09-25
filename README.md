@@ -30,13 +30,13 @@ Pour installer l'application TQL, suivez les étapes suivantes :
 1. Clonez ce dépôt sur votre machine locale.
 
 ```bash
-git clone https://github.com/votre-utilisateur/tql.git
+git clone https://github.com/benaja-bendo/Test-Quiz-Lab.git
 ```
 
 2. Installez les dépendances du projet.
 
 ```bash
-cd tql
+cd Test-Quiz-Lab
 flutter pub get
 ```
 
